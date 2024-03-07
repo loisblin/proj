@@ -1,0 +1,15 @@
+Fichier explicatif pour utiliser le code:
+
+fichier matrice:
+donne acces à une fonction graphefinal qui prend comme argument 1 fichier data et un seuil 
+et en retour affiche une matrice de co-occurence avec des mots voisins 
+plus le seuil augmente plus le nombre de valeur affiché diminue 
+
+fichier dashpersonalite:
+fichier dash pour visualiser l'apparition de personalité dans les article et sur une periode de temps,
+vous pouvez avec la barre bleu choisir une plage de temps sur lesquel les graphique vont se basser 
+ensuite avec la checklist vous pouvez choisir les articles que vous voulez utiliser
+tout ceci vous affiche un graphique avec des personnalité et leur nombre d'apparition 
+ensuite vous pouvez cliquez sur une colonne d'une personnalité si vous voulez plus de détaille ce qui affichera 2 nouveaux graphique 1 
+qui indique les lieux dans lequel cette personnalité est lié et l'autre les mots clées les plus cité avec cette personnalité ce qui quand
+y regarde de plus près avec les 3 graphique on nous donne l'importance d'une personalité pourquoi et où. 
